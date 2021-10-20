@@ -8,9 +8,9 @@ $ pkg instal git
 $ pip install beautifulsoup4
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://github.com/Aldi098/Free-Proxy
-$ cd Proksi Gratis
-$ python free-proxy.py
+$ git clone https://github.com/Arinaltopek/IGdown
+$ cd IGdown
+$ python IGdown.py
 ```
 ## fungsi
 - [x] Skrip Simple
