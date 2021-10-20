@@ -17,3 +17,13 @@ $ python IGdown.py
 - [x] Download Foto & Video IG
 - [x] Cocok Untuk Pemula(seperti saya) 
 > jika script nya ngga berfungsi berarti anda belum menginstall bahannya ok
+
+# Terimakasih Kepada
+
+```Ayah ```
+
+```Ibu```
+
+```Adik```
+
+```Teman-teman```
